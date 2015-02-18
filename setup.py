@@ -7,7 +7,7 @@ from setuptools import setup
 
 
 NAME = "sphinxcontrib-rextheme"
-VERSION = "0.1.1"
+VERSION = "0.1.2"
 DESCRIPTION = "Sphinx theme for RexDB Platform documentation"
 LONG_DESCRIPTION = open('README').read()
 AUTHOR = "Kirill Simonov (Prometheus Research, LLC)"
