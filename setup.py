@@ -13,7 +13,7 @@ LONG_DESCRIPTION = open('README').read()
 AUTHOR = "Kirill Simonov (Prometheus Research, LLC)"
 AUTHOR_EMAIL = "xi@resolvent.net"
 LICENSE = "BSD"
-URL = "http://bitbucket.org/prometheus/sphinxcontrib-rextheme"
+URL = "https://github.com/prometheusresearch/sphinxcontrib-rextheme"
 DOWNLOAD_URL = "http://pypi.python.org/pypi/sphinxcontrib-rextheme"
 CLASSIFIERS = [
         'Development Status :: 4 - Beta',
